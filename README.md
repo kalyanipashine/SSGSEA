@@ -11,5 +11,7 @@ Interpretation:
 The score derived from ssGSEA reflects the degree to which the input gene signature is coordinately up- or downregulated within a sample.
 
 HeatMap:
+
 ![image](https://user-images.githubusercontent.com/112052476/199164851-8ba4511a-abcf-40cf-8bf7-ed6f6e6bf3bf.png)
+
 The heatmap shows 0 to 2 up-regulated genes(in orange color) and 0 to -2 down-regulated genes(in green color)
